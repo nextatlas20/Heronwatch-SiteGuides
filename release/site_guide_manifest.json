@@ -1,0 +1,17 @@
+{
+  "season": "2027",
+  "counts": {
+    "in_scope": 8,
+    "publishable": 3,
+    "held": 4,
+    "withdrawn": 1
+  },
+  "publishable": ["HW-101", "HW-105", "HW-106"],
+  "held": {
+    "HW-102": ["survey_stale"],
+    "HW-103": ["permit_expired", "photos_insufficient"],
+    "HW-104": ["access_missing"],
+    "HW-108": ["no_portal_record"]
+  },
+  "withdrawn": ["HW-107"]
+}
